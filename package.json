@@ -1,0 +1,14 @@
+{
+  "name": "netwatch",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./main/app"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "libnmap": "^0.2.21",
+    "lodash": "^3.10.1",
+    "socket.io": ">=0.9.16"
+  }
+}
